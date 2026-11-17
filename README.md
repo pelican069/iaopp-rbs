@@ -57,6 +57,13 @@ evaluation; returns spectra), pattern generators
 scripts are intentional; the paper figures (`exportPaperFigures.m`) are
 English.
 
+## Funding
+
+This research out of the project MORE (Munich Mobility Research Campus)
+is funded by dtec.bw -- Digitalization and Technology Research Center of
+the Bundeswehr, which we gratefully acknowledge. dtec.bw is funded by
+the European Union -- NextGenerationEU.
+
 ## License
 
 MIT License, see [LICENSE](LICENSE).
