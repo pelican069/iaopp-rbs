@@ -59,9 +59,9 @@ English.
 
 ## License
 
-To be added before publication (see repository metadata).
+MIT License, see [LICENSE](LICENSE).
 
 ## Citation
 
-Please cite the paper above. A Zenodo DOI for this repository will be
-added upon release.
+Please cite the paper above. The Zenodo DOI of this repository is
+10.5281/zenodo.XXXXXXX (filled in with the first release).
