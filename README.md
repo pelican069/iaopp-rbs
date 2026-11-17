@@ -57,6 +57,16 @@ evaluation; returns spectra), pattern generators
 scripts are intentional; the paper figures (`exportPaperFigures.m`) are
 English.
 
+## Development note
+
+This code was developed with the assistance of a large language model
+(Claude, Anthropic) under the direction of the authors, who designed
+the methods and verified the implementation. Verification covers the
+regression-test suite (`testStrictNLMVariant.m`) and a cross-validation
+of the closed-form evaluator against a separately implemented
+Runge-Kutta time-stepping solver (`crossValidateEvaluator.m`), which
+agree to double-precision limits.
+
 ## Funding
 
 This research out of the project MORE (Munich Mobility Research Campus)
