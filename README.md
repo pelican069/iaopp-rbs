@@ -1,5 +1,7 @@
 # Impedance-Aware Optimized Pulse Patterns (IA-OPP)
 
+[![DOI](https://zenodo.org/badge/1462632434.svg)](https://doi.org/10.5281/zenodo.24338849)
+
 MATLAB code accompanying the paper
 
 > J. Estaller et al., *Impedance-Aware Optimized Pulse Patterns for
@@ -80,5 +82,7 @@ MIT License, see [LICENSE](LICENSE).
 
 ## Citation
 
-Please cite the paper above. The Zenodo DOI of this repository is
-10.5281/zenodo.XXXXXXX (filled in with the first release).
+Please cite the paper above. This repository is archived on Zenodo:
+concept DOI
+[10.5281/zenodo.24338849](https://doi.org/10.5281/zenodo.24338849)
+(resolves to the latest version).
